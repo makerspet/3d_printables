@@ -3,10 +3,10 @@
 ![screenshot1](https://github.com/makerspet/makerspet_snoopy/assets/143911662/7cb95c4c-3b06-4502-b9aa-d4a8d713990e)
 
 An open-source 300mm DIY 3D-printable pet robot compatible with [Kaia.ai](https://kaia.ai) software [platform](https://github.com/kaiaai/).
+- Snoopy was designed in Fusion 360 in 05/2023 and printed using a Voron 2.4r2 350mm.
+- 3D print, build, run and mod your own home pet robot! Please learn more at [Maker's Pet](https://makerspet.com).
 
-Snoopy was designed in Fusion 360 in 05/2023 and printed using a Voron 2.4r2 350mm.
-
-3D print, build, run and mod your own home pet robot! Please learn more at [Maker's Pet](https://makerspet.com).
+Questions? Please visit the [Support Forum](https://github.com/makerspet/support/discussions/)!
 
 ## Features
 - room mapping using a 360-degree laser distance sensor (ROS2-based).
