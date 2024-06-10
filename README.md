@@ -58,3 +58,6 @@ Questions? Please visit the [Support Forum](https://github.com/makerspet/support
 - Software setup, configuration [instructions](https://www.youtube.com/playlist?list=PLOSXKDW70aR8SA16wTB0ou9ClKhv7micy)
 - Fusion 360 3D CAD [design files](https://github.com/makerspet/3d_models/tree/main/snoopy_300mm/fusion360)
 - ROS2 software mod [instructions](https://github.com/makerspet/makerspet_loki/tree/main/urdf)
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=makerspet/makerspet_snoopy&type=Date)](https://star-history.com/#makerspet/makerspet_snoopy&Date)
